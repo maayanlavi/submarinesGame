@@ -1,0 +1,9 @@
+#lines which starts with # you shall be able to ignore in your code
+PLAYER_1 H3
+PLAYER_2 A5
+PLAYER_1 I4
+PLAYER_2 A6
+PLAYER_1 I8
+PLAYER_2 I20
+PRINT_BOARD
+PRINT_ MOVEMENTS
